@@ -5,4 +5,4 @@
 
 ![OscarDL's Metrics](/github-metrics.svg)
 
-#[![OscarDL's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardl&count_private=true&hide=stars&show_icons=true&theme=ayu-mirage)](https://github.com/oscardl/github-readme-stats)
+<!-- [![OscarDL's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardl&count_private=true&hide=stars&show_icons=true&theme=ayu-mirage)](https://github.com/oscardl/github-readme-stats) -->
